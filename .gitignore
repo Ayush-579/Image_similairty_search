@@ -1,0 +1,24 @@
+*.pyc
+__pycache__/
+.vscode/
+.idea/
+logs/
+# Ignore virtual environments
+Googlelens/
+venv/
+
+.ipynb_checkpoints/
+
+# Ignore large files and models
+*.pth
+*.h5
+*.pkl
+*.zip
+*.tar
+*.csv
+*.jpg
+*.png
+*.npz
+
+data/
+models/
