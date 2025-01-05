@@ -15,3 +15,16 @@ Approaches Implemented:
 - Fine-tune the FashionMNIST dataset for each model.
 - Evaluate and compare models using precision, recall, F1-score, and LRAP (Label Ranking Average Precision).
 - Prioritize computational efficiency for real-time performance.
+
+🛠️ Technologies and Tools
+- Python
+- PyTorch
+- Torchvision
+- scikit-learn
+- Numpy
+
+📦 Setup and Installation
+Clone the Repository:
+bash
+Copy code
+
