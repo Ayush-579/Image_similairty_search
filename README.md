@@ -89,7 +89,7 @@ cd Image_similarity_search
 
 ### **Step 3: Install Dependencies**
 ```bash
-pip install -r requirements.txt
+pip install -r Requirements.txt
 ```
 ---
 ###**Step 4: Train and Save Models**
