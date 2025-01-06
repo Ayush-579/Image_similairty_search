@@ -1,0 +1,41 @@
+Training Autoencoder...
+Epoch 1/10, Loss: 0.0414
+Epoch 2/10, Loss: 0.0173
+Epoch 3/10, Loss: 0.0145
+Epoch 4/10, Loss: 0.0131
+Epoch 5/10, Loss: 0.0122
+Epoch 6/10, Loss: 0.0116
+Epoch 7/10, Loss: 0.0111
+Epoch 8/10, Loss: 0.0108
+Epoch 9/10, Loss: 0.0104
+Epoch 10/10, Loss: 0.0102
+Results for Autoencoder:
+  Precision: 0.7501
+  Recall: 0.0150
+  F1-Score: 0.0294
+  LRAP: 0.8623
+  Accuracy: 1.0000
+----------------------------------------
+Evaluating ResNet50...
+Results for ResNet50:
+  Precision: 0.7606
+  Recall: 0.0152
+  F1-Score: 0.0298
+  LRAP: 0.8637
+  Accuracy: 1.0000
+----------------------------------------
+Evaluating VGG16...
+Results for VGG16:
+  Precision: 0.7491
+  Recall: 0.0150
+  F1-Score: 0.0294
+  LRAP: 0.8555
+  Accuracy: 1.0000
+----------------------------------------
+Evaluating ViT...
+Results for ViT:
+  Precision: 0.7906
+  Recall: 0.0158
+  F1-Score: 0.0310
+  LRAP: 0.8804
+  Accuracy: 1.0000,
